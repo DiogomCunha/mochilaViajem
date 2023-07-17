@@ -1,1 +1,2 @@
-# alura-armazenando-na-web
+# Projeto de armazenamento de dados no navegador, localstorage.
+
